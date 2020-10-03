@@ -44,4 +44,4 @@ Computer technology related movies, series and documentaries
 > ### DOCUMENTARIES
 >> A.I
 - [ The Making of ELITE (Computer Videogame) ](https://www.youtube.com/watch?v=GpWoF5uVgbA)
-- 
+- [ Mini-Docs for Developers by `HoneyPot`](https://www.youtube.com/playlist?list=PLtEPUaeDclktnuAOjeCYhEOnEqeOlt4Nq)
