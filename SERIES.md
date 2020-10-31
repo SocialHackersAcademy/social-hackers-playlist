@@ -1,2 +1,2 @@
 - Silicon Valley
-- ![Mr. Robot](/images/Screenshot_2020-10-31 Mr Robot (2015).jpg)
+![Mr. Robot](/images/Mr_Robot_2015.jpg)
