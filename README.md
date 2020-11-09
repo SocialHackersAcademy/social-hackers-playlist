@@ -85,3 +85,5 @@ Computer technology related movies, series and documentaries
 - [ Mini-Docs for Developers by `HoneyPot`](https://www.youtube.com/playlist?list=PLtEPUaeDclktnuAOjeCYhEOnEqeOlt4Nq)
 - ---
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ)
+- ---
+- [The brilliant mind of Hollywood legend Hedy Lamarr](https://www.youtube.com/watch?v=_rlXHNeQD-s)
