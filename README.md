@@ -1,4 +1,4 @@
-# social-hackers-watchlist
+# Social Hackers Playlist
 Computer technology related movies, series and documentaries
 
 > ## FILMS
