@@ -87,3 +87,8 @@ Computer technology related movies, series and documentaries
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=9vz06QO3UkQ)
 - ---
 - [The brilliant mind of Hollywood legend Hedy Lamarr](https://www.youtube.com/watch?v=_rlXHNeQD-s)
+
+---
+> ## TALKS
+
+- [DEF CON 18 - Moxie Marlinspike - Changing Threats To Privacy: From TIA to Google](https://www.youtube.com/watch?v=DoeNbZlxfUM)
