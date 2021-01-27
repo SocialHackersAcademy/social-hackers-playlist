@@ -26,6 +26,15 @@ Computer technology related movies, series and documentaries
   - - [More A.I movies](https://en.wikipedia.org/wiki/List_of_films_about_computers)
   ---
 
+-  [Lucy TRAILER 1 (2014) - Luc Besson, Scarlett Johansson Movie HD](https://www.youtube.com/watch?v=MVt32qoyhi0&t=25s)
+-  ---
+![Lucy](images/Lucy.jpg)
+
+-  [Transcendence Official Trailer #1 (2014) - Johnny Depp Sci-Fi Movie HD](https://www.youtube.com/watch?v=VCTen3-B8GU)
+-  ---
+![Trancedence](images/Trancedence.jpg)
+
+
 > **Computers**
 >
 >> Motion picture
