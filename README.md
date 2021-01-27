@@ -58,13 +58,13 @@ Computer technology related movies, series and documentaries
 
 ---
 
-![Her](images/her.jpg)
+<img src="images/her.jpg" width="220px"/>
 
 - [Her Trailer 1 (2013)](https://www.youtube.com/watch?v=6QRvTv_tpw0)
 
 ---
 
-![I Am Mother](images/i-am-mother.jpg)
+<img src="images/i-am-mother.jpg" width="350px"/>
 
 - [I Am Mother Official Trailer](https://www.youtube.com/watch?v=N5BKctcZxrM)
 
