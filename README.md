@@ -24,7 +24,7 @@ Computer technology related movies, series and documentaries
 
 ![The questor tapes](images/220px-Questortapes.jpg)
 
-- [Demon Seed (1977) [Trailer]](https://www.youtube.com/watch?v=b4jWyyhyxSg)
+- [Demon Seed (1977) [Trailer]](<https://www.youtube.com/watch?v=b4jWyyhyxSg>)
 
 ---
 
@@ -40,7 +40,7 @@ Computer technology related movies, series and documentaries
 
 ![Tron preview](images/220px-Tron_poster.jpg)
 
-- - [More A.I movies](https://en.wikipedia.org/wiki/List_of_films_about_computers)
+  - - [More A.I movies](https://en.wikipedia.org/wiki/List_of_films_about_computers)
 
 ---
 
@@ -92,7 +92,7 @@ Computer technology related movies, series and documentaries
 
 ![alphaville](images/Alphaville1965.jpg)
 
-- [Billion Dollar Brain ](https://www.youtube.com/results?search_query=billion+dollar+brain)
+- [Billion Dollar Brain](https://www.youtube.com/results?search_query=billion+dollar+brain)
 
 ---
 
@@ -120,7 +120,7 @@ Computer technology related movies, series and documentaries
 
 > ![Who Am I](/images/who-am-i.jpg)
 
-## [ Who Am I - No System Is Safe Official Trailer #1 (2014) - Tom Schilling Thriller HD ](https://www.youtube.com/watch?v=5vnjheCqRIs)
+## [Who Am I - No System Is Safe Official Trailer #1 (2014) - Tom Schilling Thriller HD](https://www.youtube.com/watch?v=5vnjheCqRIs)
 
 ---
 
@@ -128,7 +128,7 @@ Computer technology related movies, series and documentaries
 
 <img src="images/snowden.jpg" width="220px">
 
-- [Snowden | Official Trailer [HD] | Open Road Films](https://www.youtube.com/watch?v=QlSAiI3xMh4)
+- [Snowden | Official Trailer [HD] | Open Road Films](<https://www.youtube.com/watch?v=QlSAiI3xMh4>)
 
 ---
 
@@ -140,7 +140,7 @@ Computer technology related movies, series and documentaries
 
 ![ITALIAN-JOB](images/The_Italian_Job_1969_poster.jpg)
 
-- [WarGames (1983) ](<https://www.youtube.com/results?search_query=wargames+(1983)+trailer>)
+- [WarGames (1983)](<https://www.youtube.com/results?search_query=wargames+(1983)+trailer>)
 
 ---
 
@@ -164,7 +164,7 @@ Computer technology related movies, series and documentaries
 
 ![F-B-D-O](/images/Ferris_Bueller's_Day_Off.jpg)
 
-- - [`More` Hacking movies](https://en.wikipedia.org/wiki/List_of_films_about_computers)
+  - - [`More` Hacking movies](https://en.wikipedia.org/wiki/List_of_films_about_computers)
   ***
 
 ---
@@ -173,13 +173,13 @@ Computer technology related movies, series and documentaries
 >
 > > **A.I (Artificial Intelligence)**
 
-- [ The Making of ELITE (Computer Videogame) ](https://www.youtube.com/watch?v=GpWoF5uVgbA)
+- [The Making of ELITE (Computer Videogame)](https://www.youtube.com/watch?v=GpWoF5uVgbA)
 
 ---
 
 ![T-M-E](/images/Elite_org_cover.jpg)
 
-- [ Mini-Docs for Developers by `HoneyPot`](https://www.youtube.com/playlist?list=PLtEPUaeDclktnuAOjeCYhEOnEqeOlt4Nq)
+- [Mini-Docs for Developers by `HoneyPot`](https://www.youtube.com/playlist?list=PLtEPUaeDclktnuAOjeCYhEOnEqeOlt4Nq)
 
 ---
 
@@ -191,6 +191,13 @@ Computer technology related movies, series and documentaries
 
 ---
 
+> ## WEB SERIES
+
+ ![The Billion Dollar Code](./images/the-billion-dollar-code.jpeg)
+
+- [The Billion Dollar Code](https://www.netflix.com/gr-en/title/81074012) (Netflix)
+
+---
 > ## TALKS
 
 - [DEF CON 18 - Moxie Marlinspike - Changing Threats To Privacy: From TIA to Google](https://www.youtube.com/watch?v=DoeNbZlxfUM)
