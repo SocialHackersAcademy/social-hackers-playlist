@@ -1,6 +1,6 @@
 - [The Playlist](https://www.imdb.com/title/tt11564258/)
 
-![The Playlist](https://occ-0-299-64.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZkgFwrRrkIvRqDC424kxXRw8ZxPJ0CI9mr5p5VZDBd21hD-2b5eL4K7U5g4CK65VR777-qIWl1m__ivDO-JW4HOZTWJ66UnM_6FSh7qQ7fwWukvSkR_gb3KSm5Ssq7KEoPC3g.jpg?r=fc0)
+<img height="200" src="https://occ-0-299-64.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZkgFwrRrkIvRqDC424kxXRw8ZxPJ0CI9mr5p5VZDBd21hD-2b5eL4K7U5g4CK65VR777-qIWl1m__ivDO-JW4HOZTWJ66UnM_6FSh7qQ7fwWukvSkR_gb3KSm5Ssq7KEoPC3g.jpg?r=fc0" alt="" />
 
 ---
 
